@@ -1,5 +1,5 @@
 ## Basic Usage
-This is a powershell script that bypass amsi / defender:)
+This is a powershell script that bypass amsi / defender
 
 How to execute ? 
 ```
